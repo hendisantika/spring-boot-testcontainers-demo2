@@ -1,5 +1,7 @@
 # spring-boot-testcontainers-demo2
 
+![Maven Build](https://github.com/hendisantika/spring-boot-testcontainer-mysql/workflows/Maven%20Build/badge.svg?branch=main)
+
 Spring boot is the now the best known RAD(Rapid Application Development) framework for many applications in software
 world. When we use spring provided JPA i.e Spring Data JPA, it wraps us an easy way to create database queries and test
 them with an embedded H2/HSQL database.
